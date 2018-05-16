@@ -1,10 +1,7 @@
-# snapshotsShootingVideo
-Shooting Video &amp; Recording Audio is a 50-minute workshop and game template to teach and learn how to plan and begin short video projects. Developed by Jesse Garcia, Tim Miller &amp; Christina Cordova
-
-# Shooting Video &amp; Recording Audio
+# HSU Student Snapshots - Shooting Video &amp; Recording Audio
 
 ## Workshop
-__Shooting Video &amp; Recording Audio__ is a 50-minute workshop and handout to teach and learn how to plan for recording by examining scene requirements and determining environmental and equipment options. 
+__Shooting Video &amp; Recording Audio__ is a 50-minute workshop to teach and learn how to plan and begin short video projects. Developed by Jesse Garcia, Tim Miller &amp; Christina Cordova
 
 This workshop is a remix of a workshop originally developed by Jesse Garcia. This remix (created by Jesse, Tim Miller, and Christina Cordova) contextualizes Jesse's original workshop to focus on the HSU Student Snapshots project. It is the second in a three-part series to support students in creating short testimonial videos about their experiences as students at Humboldt State University as part of an ongoing project called [HSU Student Snapshots](http://libguides.humboldt.edu/snapshots). You can view the current student video submissions via the [YouTube playlist](https://www.youtube.com/playlist?list=PLe7DUUoET6mUN1jP4pO6uKW9uyubSkQhC). 
 
