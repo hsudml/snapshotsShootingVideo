@@ -16,7 +16,7 @@ This workshop was developed as a quick overview of different options for shootin
 The guide for this workshop follows the structure of the lesson and can be used as a lesson plan. It provides some basic information as well as a list of resources to help with video projects. 
 
 Multiple versions of the same content:
-+ [Webpage](https://hsudml.github.io/snapshotsShootingVideo/guide) (screen reader friendly)
++ [Webpage](https://hsudml.github.io/snapshotsVideo/guide) (screen reader friendly)
 + [Printable booklet](https://hsudml.github.io/snapshotsVideo/assets/snapshotsVideo.pdf) (not accessible)
 + [Digital version](https://docs.google.com/presentation/d/e/2PACX-1vTvadEiQKRTxl7-5p2695PQqmSWZo0jDk2QvEfzi1bwLyzV0lKghmRIhuGCCNP_vwOp8bFls_g38bRr/pub?start=false&loop=false&delayms=3000) (also not accessible)
 
