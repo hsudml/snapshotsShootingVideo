@@ -3,7 +3,7 @@
 # Shooting Video &amp; Recording Audio
 DSLRs, Camcorders, Mics and more!
 
-## Whos is this guide for? Students!
+## Who is this guide for? Students!
 This is a guide to help you get started with creating a short video for class projects, uploading to social media and sharing with the rest of the world.
 
 Shoot your video with the help of the Digital Media Lab. You can check out cameras, microphones tripods and other accessories that you will need for your project.
