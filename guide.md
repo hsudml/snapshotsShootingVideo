@@ -1,4 +1,4 @@
-![Title banner](assets/images/snapshotsShootingVideoBanner.png)
+![Title banner](assets/images/snapshotsShootingVideo.png)
 
 # Shooting Video &amp; Recording Audio
 DSLRs, Camcorders, Mics and more!
