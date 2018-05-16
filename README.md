@@ -21,7 +21,7 @@ The guide for this workshop follows the structure of the lesson and can be used 
 Multiple versions of the same content:
 + [Webpage](https://hsudml.github.io/snapshotsShootingVideo/guide) (screen reader friendly)
 + [Printable booklet](https://hsudml.github.io/snapshotsShootingVideo/assets/snapshotsShootingVideo.pdf) (not accessible)
-+ [Digital version]() (also not accessible)
++ [Digital version](https://docs.google.com/presentation/d/e/2PACX-1vTvadEiQKRTxl7-5p2695PQqmSWZo0jDk2QvEfzi1bwLyzV0lKghmRIhuGCCNP_vwOp8bFls_g38bRr/pub?start=false&loop=false&delayms=3000) (also not accessible)
 
 ## Activities
 There are no defined activies for this workshop, but facilitators should bring equipment for participants to try out and play with. Depending on the participants' needs and feedback, discussions about setup, locations, lighting and more can be a useful follow-up to introducing the guide. The guide also includes links to more resources and options for projects. 
