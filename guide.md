@@ -1,14 +1,20 @@
 ![Title banner](assets/images/snapshotsShootingVideo.png)
 
 # Shooting Video &amp; Recording Audio
-DSLRs, Camcorders, Mics and more!
 
-## Who is this guide for? Students!
-This is a guide to help you get started with creating a short video for class projects, uploading to social media and sharing with the rest of the world.
+## HSU Student Snapshots
+“Student Snapshots” is a collection of video stories from Humboldt State University (HSU) students in their own voice. These stories are about the experiences of students as they live in Humboldt County and explore both the county and the HSU campus. Student Snapshots are quick 1-minute stories that share your unique experience from your own vantage point. Take a look at the [HSU Student Snapshots YouTube playlist](https://www.youtube.com/playlist?list=PLe7DUUoET6mUN1jP4pO6uKW9uyubSkQhC) (below) to see what people have already shared and then add your story.
 
-Shoot your video with the help of the Digital Media Lab. You can check out cameras, microphones tripods and other accessories that you will need for your project.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/V0VFkAwyfTU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Software to edit this footage is available at the media lab. There's also online sites students can download free audio for their projects. See below for more info.
+
+This guide will help you with planning and preparing your story. Visit the accompanying online guide for more links and info: [libguides.humboldt.edu/snapshots/learn](libguides.humboldt.edu/snapshots/learn).
+
+## Digital Media Lab Quick Guide
+This short guide will get you started with your project. For more information about this or with other digital media projects, visit [http://libguides.humboldt.edu/dml](http://libguides.humboldt.edu/dml).
+
+## Storyboard
+Fill out the storyboard with what you want to record in your scene. How will you frame the shot? Who will be in the shot? What kind of audio will you need to capture (voice, background sounds, background music)?
 
 ![Storyboards for two scenes, each asking for info about equipment, environment and footage](images/storyboard.png)
 
