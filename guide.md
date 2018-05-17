@@ -16,7 +16,7 @@ This short guide will get you started with your project. For more information ab
 ## Storyboard
 Fill out the storyboard with what you want to record in your scene. How will you frame the shot? Who will be in the shot? What kind of audio will you need to capture (voice, background sounds, background music)?
 
-![Storyboards for two scenes, each asking for info about equipment, environment and footage](images/storyboard.png)
+![Storyboards for two scenes, each asking for info about equipment, environment and footage](assets/images/storyboard.png)
 
 When planning your video project, you will want to think about: 
 + Equipment (camera, mic, props)
@@ -27,7 +27,7 @@ When planning your video project, you will want to think about:
 ### Portrait framing 
 Use the Rule of Thirds is to place your subject in the frame asymmetrically. Picture lines in your frame breaking up the scene into three parts vertically and horizontally (nine sections in total). Place your subjects on the intersecting lines. For example:
 
-![Scene showing the use of the rule of thirds to place the subject in line vertically on the first of three vertical guidelines](images/ruleOfThirds.png)
+![Scene showing the use of the rule of thirds to place the subject in line vertically on the first of three vertical guidelines](assets/images/ruleOfThirds.png)
 
 ### B-roll Shots
 B-roll is alternative footage that you can use to supplement your main footage. B-roll is useful when you need extra footage and sound and is a good way to give a sense of scenery to your viewers or audience. Start your shots early and take extra shots or shoot your surroundings to gather B-roll footage.
